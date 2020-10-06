@@ -13,7 +13,7 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 * [x] Very Easy to use
 * [x] <del>No Internet connection required
 
-# Thank _You_!
+## Thank _You_!
 Please :star: this repo to help us improve the quality.
 
 ## Requirements
