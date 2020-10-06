@@ -9,7 +9,6 @@ def on_click():
   text.insert(INSERT, wikipedia.summary(q, sentences=3))
 
 
-
 def wrnng():
   tk.messagebox.showinfo(title='About', message='Created By Mohamed Yanis HIOU\n     www.medyanis-hiou.me')
 
