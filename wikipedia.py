@@ -11,7 +11,7 @@ def on_click():
 
 
 def wrnng():
-  tk.messagebox.showinfo(title='About', message='Created By Mohamed Yanis HIOU')
+  tk.messagebox.showinfo(title='About', message='Created By Mohamed Yanis HIOU\n     www.medyanis-hiou.me')
 
 root = Tk()
 root.title("Yanis's Wikipedia')
