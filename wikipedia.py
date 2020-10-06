@@ -14,7 +14,7 @@ def wrnng():
   tk.messagebox.showinfo(title='About', message='Created By Mohamed Yanis HIOU')
 
 root = Tk()
-root.title('GI Searchers')
+root.title("Yanis's Wikipedia')
 
 btn = Button(root,text='About',command=wrnng)
 btn.pack()
