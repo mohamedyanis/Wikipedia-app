@@ -3,6 +3,7 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This is a simple Wikipedia desktop app written in Python With Tkinter module.
+Click <a href="https://docs.python.org/3/library/tk.html"> here</a> to read more about **tkinter** module.
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
@@ -16,6 +17,11 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
+
+## Screenshots
+Home           | Result
+:---------------------:|:------------------:
+![screenshoot](screenshots/wa1.png) | ![screenshoot](screenshots/wa2.png)
 
 ## Requirements
 * python
@@ -33,4 +39,5 @@ pip install tkinter
 
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
+If you find any issue just put it in the repository issue section, thank you.<br><br>
+.سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
