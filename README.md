@@ -26,7 +26,7 @@ Home           | Result
 ## Requirements
 * python
 * tkinter module
-
+ 
 ## How To Use It
 1. Download Python from this link: https://www.python.org/downloads/
 2. Install the packeges, write in your command (cmd):
